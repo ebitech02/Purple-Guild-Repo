@@ -1,6 +1,6 @@
 -> Built for the second phase of the Purple Guild mentorship programmme. 
 - This is a simple command line interpreter thats let you play a game of Rock Paper Scissors with the computer.
-It is built with C programming language. As you know C is the language of th Unix Os and also the foundation of most popular programming languages like Python, Java, Javascript etc.
+It is built with C programming language. As you know C is the language of the Unix Os and also the foundation of most popular programming languages like Python, Java, Javascript etc.
 
 HOW TO RUN - 
 First clone the repo into your personal computer and then open with your run with your terminal(command prompt/git bash) 
